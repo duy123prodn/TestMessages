@@ -1,0 +1,13 @@
+
+.list-songs{
+    display: flex;
+    justify-content: center;
+}
+.menu-add-new-song{
+    display: flex;
+    justify-content: center;
+}
+.Navbar{
+    display: flex;
+    justify-content: space-evenly;
+}
